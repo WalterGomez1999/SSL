@@ -1,4 +1,4 @@
-Sintaxis y semántica de los Lenguajes.
+# Sintaxis y semántica de los Lenguajes
 
 Curso: K2006.
 
